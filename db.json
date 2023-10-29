@@ -2,7 +2,7 @@
   "minimalist":[
   {
     "id": 1,
-    "img": "src/assets/AHA_BHA.png",
+    "img": "/assets/AHA_BHA.png",
     "name": "AHA BHA 10%",
     "price": 126000,
     "category": "skin",
@@ -10,7 +10,7 @@
   },
   {
     "id": 2,
-    "img": "src/assets/vitamin_c_10.png",
+    "img": "/assets/vitamin_c_10.png",
     "name": "Vitamin C 10%",
     "price": 147000,
     "category": "skin",
@@ -18,7 +18,7 @@
   },
   {
     "id": 3,
-    "img": "src/assets/niacinamide_10.png",
+    "img": "/assets/niacinamide_10.png",
     "name": "Niacinamide 10%",
     "price": 126000,
     "category": "skin",
@@ -26,7 +26,7 @@
   },
   {
     "id": 4,
-    "img": "src/assets/niacinamide.png",
+    "img": "/assets/niacinamide.png",
     "name": "Niacinamide 05%",
     "price": 126000,
     "category": "skin",
@@ -34,7 +34,7 @@
   },
   {
     "id": 5,
-    "img": "src/assets/sepicalm_03_skin.png",
+    "img": "/assets/sepicalm_03_skin.png",
     "name": "Sepicalm 03% Moisturizer",
     "price": 73000,
     "category": "skin",
@@ -42,7 +42,7 @@
   },
   {
     "id": 6,
-    "img": "src/assets/hair_growth_actives_18.png",
+    "img": "/assets/hair_growth_actives_18.png",
     "name": "Hair Growth Actives 18%",
     "price": 180000,
     "category": "hair",
